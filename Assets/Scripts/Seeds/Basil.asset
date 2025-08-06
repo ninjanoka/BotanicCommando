@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bd2545ba9eae8b43ac592d9fde5156b, type: 3}
+  m_Name: Basil
+  m_EditorClassIdentifier: 
+  seedName: Basil
+  reward: 14
+  waterNeeds: 30
+  sunNeeds: 80
+  foodNeeds: 20
+  seedStages:
+  - {fileID: 4457715505662931237, guid: 11f1ee8798fb37245b3f2c668302abcb, type: 3}
+  - {fileID: 7308167366782943882, guid: bcbb7f6908862e14a947fb9396048a93, type: 3}
+  - {fileID: 4311827969176417060, guid: 6f175e6d189c1564d8a4cee8bf9ff243, type: 3}

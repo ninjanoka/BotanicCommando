@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\info\\BionicCommando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|C:\\Users\\info\\BionicCommando\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|C:\\Users\\info\\BionicCommando\\assets\\scripts\\seeds\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\seeds\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|C:\\Users\\info\\BionicCommando\\assets\\scripts\\containertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\containertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|c:\\users\\info\\bioniccommando\\assets\\scripts\\tiltdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tiltdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|c:\\users\\info\\bioniccommando\\assets\\scripts\\seedscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\seedscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Logic\\Reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|C:\\Users\\info\\BionicCommando\\assets\\scripts\\resetscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|C:\\Users\\info\\BionicCommando\\assets\\vrtemplateassets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73BEDD0-862D-DA59-22FE-04F89CE8F837}|Assembly-CSharp.csproj|solutionrelative:assets\\vrtemplateassets\\scripts\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Conditions\\ConditionContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Logic\\Conditions\\ConditionContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\LogicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Editor\\LogicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\ConditionContainerEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Editor\\ConditionContainerEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\ReactionListEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Editor\\ReactionListEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\ConditionEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Editor\\ConditionEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Conditions\\ConditionList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Logic\\Conditions\\ConditionList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Reactions\\ReactionList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Logic\\Reactions\\ReactionList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Reactions\\ReactionAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Logic\\Reactions\\ReactionAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\ConditionReactionSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ConditionReactionSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Logic\\Condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedScriptableObject.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\SeedScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SeedScriptableObject.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\SeedScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SeedScriptableObject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:24:03.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TiltDetector.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\TiltDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TiltDetector.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\TiltDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TiltDetector.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:14:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogicEditor.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\LogicEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\LogicEditor.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\LogicEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\LogicEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:22:18.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConditionContainerEditor.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\ConditionContainerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\ConditionContainerEditor.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\ConditionContainerEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\ConditionContainerEditor.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:42:48.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReactionListEditor.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\ReactionListEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\ReactionListEditor.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\ReactionListEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\ReactionListEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:14:41.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConditionContainer.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Conditions\\ConditionContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Conditions\\ConditionContainer.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Conditions\\ConditionContainer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Conditions\\ConditionContainer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:53:59.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConditionEditor.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\ConditionEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\ConditionEditor.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Editor\\ConditionEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\ConditionEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:33:09.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetScriptableObject.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\ResetScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetScriptableObject.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\ResetScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResetScriptableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:57:13.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReactionList.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Reactions\\ReactionList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Reactions\\ReactionList.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Reactions\\ReactionList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Reactions\\ReactionList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:39:54.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContainerTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\ContainerTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ContainerTrigger.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\ContainerTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ContainerTrigger.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0EAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:07:46.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Seeds\\Seed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Seeds\\Seed.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Seeds\\Seed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Seeds\\Seed.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:41:03.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:10:09.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Condition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Condition.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Condition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Condition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:01:17.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConditionList.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Conditions\\ConditionList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Conditions\\ConditionList.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Conditions\\ConditionList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Conditions\\ConditionList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:46:27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConditionReactionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\ConditionReactionSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConditionReactionSystem.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\ConditionReactionSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConditionReactionSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T08:00:06.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reaction.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Reaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Reaction.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Reaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Reaction.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:18:53.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rotator.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\VRTemplateAssets\\Scripts\\Rotator.cs",
+              "RelativeDocumentMoniker": "Assets\\VRTemplateAssets\\Scripts\\Rotator.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\VRTemplateAssets\\Scripts\\Rotator.cs",
+              "RelativeToolTip": "Assets\\VRTemplateAssets\\Scripts\\Rotator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:39:39.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReactionAudio.cs",
+              "DocumentMoniker": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Reactions\\ReactionAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Reactions\\ReactionAudio.cs",
+              "ToolTip": "C:\\Users\\info\\BionicCommando\\Assets\\Scripts\\Logic\\Reactions\\ReactionAudio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Reactions\\ReactionAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:24:33.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
